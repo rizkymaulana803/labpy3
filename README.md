@@ -2,9 +2,11 @@
 
 latihan 1
 
--tampilkan nilai n bilangan acak yang nilainya lebih dari 0,5
--nilai n pada saat di runfile
--anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya 
+1. tampilkan nilai n bilangan acak yang nilainya lebih dari 0,5
+
+2. nilai n pada saat di runfile
+
+3. anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya 
 
 contoh outputnya
 ![program 1](https://user-images.githubusercontent.com/46336552/53220275-4446dd80-3696-11e9-9891-9bbaa3c342d1.PNG)
